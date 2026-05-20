@@ -1,87 +1,166 @@
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║  Perfil de GitHub — Maikol Romero Amaro                      ║ -->
+<!-- ║  GitHub Profile · Maikol Romero Amaro                        ║ -->
+<!-- ║  DevSecOps Engineer · SOC Architect · Ethical Hacker         ║ -->
 <!-- ║  Tema: Cyberpunk · Tokyo Night                               ║ -->
-<!-- ║  ✏️  Los comentarios marcados así son cosas que TÚ cambias.  ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-<div align="center">
+<!-- ═════════ BANNER PERSONALIZADO ═════════ -->
+<p align="center">
+  <img src="./assets/banner.svg" alt="SOC Command Center · Maikol Romero" width="100%"/>
+</p>
 
-<!-- ═════════ CABECERA CON ONDA NEÓN ═════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:00CED1,100:FF1493&height=220&section=header&text=Maikol%20Romero&fontSize=70&animation=fadeIn&fontColor=ffffff&fontAlignY=38&desc=%7B%20jugando%20con%20el%20c%C3%B3digo%20%7D&descAlignY=58&descAlign=50" width="100%" alt="header"/>
+<!-- ═════════ TYPING SVG ═════════ -->
+<p align="center">
+  <a href="https://github.com/Maikol-Romero">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=00FFFF&center=true&vCenter=true&width=720&height=60&lines=%3E+nmap+-sV+-p-+target.local;%3E+%5B!%5D+Vulnerability+detected;%3E+securing+infrastructure+24%2F7;%3E+compliance+!%3D+security;%3E+trust+nothing.+verify+everything." alt="hacker typing" />
+  </a>
+</p>
 
-<!-- ═════════ TYPING SVG (frases en bucle) ═════════ -->
-<!-- ✏️ Edita las frases en `lines=` separadas por ; (codifica espacios como +) -->
-<a href="https://github.com/Maikol-Romero">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=800&color=00FFFF&center=true&vCenter=true&multiline=false&width=700&height=70&lines=%3E+Initializing+system...;%3E+Welcome+to+the+matrix%2C+Maikol;%3E+%7B+Coffee%3A+true%2C+Sleep%3A+false+%7D;%3E+git+push+origin+chaos+%E2%9A%A1;%3E+404%3A+social+life+not+found" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- ═════════ BADGES DE PERFIL ═════════ -->
-<img src="https://komarev.com/ghpvc/?username=Maikol-Romero&label=PROFILE%20VIEWS&color=00ffff&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/Maikol-Romero?label=FOLLOWERS&style=for-the-badge&color=ff1493&labelColor=000000" alt="followers" />
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00ff00?style=for-the-badge&labelColor=000000" alt="status" />
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Maikol-Romero&label=PROFILE%20VIEWS&color=00ffff&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Maikol-Romero?label=FOLLOWERS&style=for-the-badge&color=ff1493&labelColor=000000" alt="followers" />
+  <img src="https://img.shields.io/badge/STATUS-DEFENDING%20PRODUCTION-00ff66?style=for-the-badge&labelColor=000000" alt="status" />
+</p>
 
 ---
 
-## <samp>🕹️ &gt; whoami</samp>
+## `> motd`
 
-```yaml
-name:      Maikol Romero Amaro
-role:      [ "<!-- ✏️ ej: fullstack dev / estudiante DAW / pentester -->" ]
-location:  España
-status:    building cool stuff
-fueled_by: [ "☕ café", "🎮 videojuegos", "🌙 noches sin dormir" ]
+```bash
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   Welcome, intruder. Or friend. Time will tell.                  ║
+║                                                                  ║
+║   ▸ Last login : real-time from a cyberpunk dimension            ║
+║   ▸ Operator   : maikol@soc:~$                                   ║
+║   ▸ Mission    : keep production safe ⚡                         ║
+║                                                                  ║
+║   This system is monitored. Have a nice scan.                    ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
-> <!-- ✏️ Cuenta quién eres en 2-3 líneas. Si lo dejas tal cual también vale 😉 -->
-> Me apasiona programar y romper sistemas para entender cómo funcionan por dentro. Si te aburre el código aburrido, estamos en la misma frecuencia. Aquí encontrarás los proyectos con los que estoy aprendiendo, cacharreando y de vez en cuando sorprendiéndome a mí mismo.
+---
+
+## `> whoami`
+
+```yaml
+name:         Maikol Romero Amaro
+role:         DevSecOps Engineer · SOC Architect · Ethical Hacker
+location:     España
+mindset:      "El objetivo no es solo detectar la brecha — es diseñar
+               la arquitectura definitiva para que no vuelva a ocurrir."
+fueled_by:    [ "café", "logs a las 3 AM", "CVEs nuevos" ]
+status:       defending_critical_infrastructure
+```
+
+> Soy Ingeniero de Sistemas y Ciberseguridad. Diseño, despliego y protejo infraestructuras críticas combinando seguridad ofensiva con arquitectura defensiva: SOCs desde cero, SIEM orquestado con respuesta activa, observabilidad integral y pipelines de escaneo de vulnerabilidades **enriquecidos con IA**. Cuando no estoy automatizando defensas, estoy rompiendo cosas (legalmente) para entender cómo defenderlas mejor.
 
 ---
 
-## <samp>⚔️ &gt; ./arsenal.sh</samp>
+## `> cat ./mission.txt`
+
+```yaml
+mission:
+  red_team:
+    - Auditorías técnicas profundas (lógica de negocio, APIs, infra)
+    - Análisis de cumplimiento: OWASP · PCI-DSS · RGPD · ENS
+    - Hunting de vulnerabilidades en producción
+  blue_team:
+    - Diseño de SOC end-to-end (SIEM + SOAR + respuesta activa)
+    - Observabilidad integral · señal, no ruido
+    - Detección automatizada enriquecida con IA
+  architecture:
+    - Alta Disponibilidad sobre clouds críticos
+    - Infrastructure-as-Code · pipelines reproducibles
+    - Cero secretos sueltos · gobernanza de identidades
+  automation:
+    - Scripts custom para eliminar lo manual
+    - Reducir tiempos de respuesta de horas a segundos
+```
+
+---
+
+## `> ./arsenal.sh`
+
+<!-- ✏️ Ajusta lo que no uses. Yo he tirado por tu perfil de DevSecOps. -->
 
 <div align="center">
 
-<!-- ✏️ Cambia / añade / quita los badges según tu stack real. -->
-<!-- Generador de badges: https://shields.io · Lista chula: https://github.com/Envoy-VC/awesome-badges -->
+**`🎯  OFFENSIVE  ·  Red Team`**
 
-**`💻 Lenguajes`**
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2C5BB4?style=for-the-badge&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-009688?style=for-the-badge&logo=owasp&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-00A4C7?style=for-the-badge&logo=tenable&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=ffdd54" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+**`🛡️  DEFENSIVE  ·  Blue Team · SIEM · SOAR`**
 
-**`🎨 Frontend`**
+![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white)
+![Elastic](https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+**`☁️  CLOUD SECURITY  ·  High Availability`**
 
-**`⚙️ Backend & DB`**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white" />
+**`⚙️  DEVSECOPS  ·  IaC · CI/CD · Secrets`**
 
-**`🛠️ Tools`**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Vault](https://img.shields.io/badge/HashiCorp_Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+**`</> LANGUAGES`**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
 
 </div>
 
 ---
 
-## <samp>📊 &gt; ./stats.exe</samp>
+## `> ./certifications.log`
+
+```yaml
+in_progress:
+  eJPT:                ████████░░  80%   # eLearnSecurity Junior Penetration Tester
+next_targets:
+  OSCP:                ███░░░░░░░  30%   # Offensive Security Certified Professional
+  AWS_SCS:             █████░░░░░  50%   # AWS Certified Security – Specialty
+  CKS:                 ████░░░░░░  40%   # Certified Kubernetes Security Specialist
+philosophy:            "El certificado da el papel — la práctica da el criterio."
+```
+
+> <!-- ✏️ Ajusta los % según donde estés realmente. Quita las que no apliquen. -->
+
+---
+
+## `> ./defense-matrix.md`
+
+| Capa            | Estado | Stack principal                                    |
+|-----------------|--------|----------------------------------------------------|
+| 🌐 **Perímetro**    | ✅ OK   | WAF · Cloudflare · IDS/IPS                         |
+| 🔍 **Detección**    | ✅ OK   | Wazuh · Elastic · alertas correlacionadas          |
+| 🤖 **Respuesta**    | ✅ OK   | SOAR · playbooks automatizados · scripts custom    |
+| 🔐 **Identidad**    | ✅ OK   | Zero-trust · least privilege · Vault               |
+| 📋 **Compliance**   | 🟡 IT  | RGPD · PCI-DSS · ENS — auditoría continua          |
+| ☁️ **Cloud**        | ✅ OK   | IaC · benchmarks CIS · drift detection             |
+| 🧪 **Hardening**    | 🔄 LOOP | Pentests internos · escaneo CVE 24/7               |
+
+---
+
+## `> ./stats.exe`
 
 <div align="center">
 
@@ -96,7 +175,7 @@ fueled_by: [ "☕ café", "🎮 videojuegos", "🌙 noches sin dormir" ]
 
 ---
 
-## <samp>🏆 &gt; ./trophies</samp>
+## `> ./trophies`
 
 <div align="center">
 
@@ -106,7 +185,7 @@ fueled_by: [ "☕ café", "🎮 videojuegos", "🌙 noches sin dormir" ]
 
 ---
 
-## <samp>📈 &gt; ./activity.log</samp>
+## `> tail -f activity.log`
 
 <div align="center">
 
@@ -116,10 +195,10 @@ fueled_by: [ "☕ café", "🎮 videojuegos", "🌙 noches sin dormir" ]
 
 ---
 
-## <samp>🐍 &gt; ./snake.sh</samp>
+## `> ./snake.sh`
 
-<!-- ⚠️ Esta animación necesita el GitHub Action que está en .github/workflows/snake.yml -->
-<!--    Aparecerá en blanco la primera vez. En cuanto el workflow corra (manual o a las 00:00) se rellenará. -->
+<!-- 🐍 Necesita el GitHub Action en .github/workflows/snake.yml -->
+<!--    La primera vez aparece en blanco. Tras la primera ejecución se rellena solo. -->
 
 <div align="center">
 
@@ -133,7 +212,7 @@ fueled_by: [ "☕ café", "🎮 videojuegos", "🌙 noches sin dormir" ]
 
 ---
 
-## <samp>💭 &gt; fortune</samp>
+## `> fortune`
 
 <div align="center">
 
@@ -143,7 +222,7 @@ fueled_by: [ "☕ café", "🎮 videojuegos", "🌙 noches sin dormir" ]
 
 ---
 
-## <samp>📡 &gt; ./contact.sh</samp>
+## `> ./contact --secure`
 
 <div align="center">
 
@@ -153,13 +232,15 @@ fueled_by: [ "☕ café", "🎮 videojuegos", "🌙 noches sin dormir" ]
 <a href="https://github.com/Maikol-Romero">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<!-- ✏️ Cuando quieras añadir email/discord/twitter, descomenta y edita: -->
-<!--
+<!-- ✏️ Descomenta y rellena cuando quieras:
 <a href="mailto:tu@email.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://discord.com/users/TU_ID">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+<a href="https://tryhackme.com/p/Maikol">
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" />
+</a>
+<a href="https://app.hackthebox.com/profile/Maikol">
+  <img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
 </a>
 -->
 
@@ -168,10 +249,11 @@ fueled_by: [ "☕ café", "🎮 videojuegos", "🌙 noches sin dormir" ]
 ---
 
 <div align="center">
-
-<!-- ═════════ FOOTER ONDA ═════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,50:00CED1,100:8A2BE2&height=120&section=footer" width="100%"/>
-
-<sub><code>// Si has llegado hasta aquí, eres de los nuestros. GG 🎮</code></sub>
-
+  <sub>
+    <code>// "There is no patch for human stupidity." — Kevin Mitnick</code>
+  </sub>
+  <br/>
+  <sub>
+    <code>// Si has llegado hasta aquí, ya estás en el log.  🟢</code>
+  </sub>
 </div>
