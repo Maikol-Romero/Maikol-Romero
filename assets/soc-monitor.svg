@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 440" width="100%" preserveAspectRatio="xMidYMid meet" role="img" aria-label="SOC Live Monitor">
+<defs>
+<filter id="g" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="sg" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="1" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#070a1a"/><stop offset="100%" stop-color="#0f0e2a"/></linearGradient>
+<linearGradient id="sw" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#00ffff" stop-opacity="0"/><stop offset="100%" stop-color="#00ffff" stop-opacity="1"/></linearGradient>
+<pattern id="gd" x="0" y="0" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M 32 0 L 0 0 0 32" fill="none" stroke="#1a2148" stroke-width="0.5" opacity="0.5"/></pattern>
+<clipPath id="lc"><rect x="780" y="100" width="480" height="270" rx="4"/></clipPath>
+</defs>
+<rect width="1280" height="440" fill="url(#bg)"/>
+<rect width="1280" height="440" fill="url(#gd)"/>
+<rect x="0" y="0" width="1280" height="44" fill="#0a0d22"/>
+<line x1="0" y1="44" x2="1280" y2="44" stroke="#00ffff" stroke-width="1" opacity="0.4"/>
+<text x="24" y="28" fill="#00ffff" font-family="'JetBrains Mono',monospace" font-size="13" font-weight="700" filter="url(#sg)" letter-spacing="1.5">SOC // LIVE_MONITOR_v3.7</text>
+<text x="640" y="28" fill="#a0aec0" font-family="'JetBrains Mono',monospace" font-size="11" text-anchor="middle" letter-spacing="2">OPERATOR :: maikol@root  |  SESSION :: ACTIVE</text>
+<g transform="translate(1130,22)"><circle r="4" fill="#00ff66" filter="url(#sg)"><animate attributeName="opacity" values="1;0.3;1" dur="1.6s" repeatCount="indefinite"/></circle><text x="12" y="5" fill="#00ff66" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" letter-spacing="1.5">ALL SYSTEMS GO</text></g>
+<path d="M 8 56 L 8 80 M 8 56 L 32 56" stroke="#00ffff" stroke-width="2" fill="none"/>
+<path d="M 1272 56 L 1272 80 M 1272 56 L 1248 56" stroke="#00ffff" stroke-width="2" fill="none"/>
+<path d="M 8 432 L 8 408 M 8 432 L 32 432" stroke="#ff1493" stroke-width="2" fill="none"/>
+<path d="M 1272 432 L 1272 408 M 1272 432 L 1248 432" stroke="#ff1493" stroke-width="2" fill="none"/>
+<g>
+<rect x="20" y="60" width="320" height="320" fill="#0a0d22" stroke="#00ffff" stroke-width="1" rx="4" opacity="0.85"/>
+<rect x="20" y="60" width="3" height="320" fill="#00ffff" filter="url(#sg)"/>
+<text x="40" y="82" fill="#7c8db5" font-family="'JetBrains Mono',monospace" font-size="10" letter-spacing="1.5">&gt; RADAR :: ATTACK_SURFACE_SCAN</text>
+<g transform="translate(180,220)">
+<circle r="110" stroke="#00ffff" stroke-width="0.8" fill="none" opacity="0.25"/>
+<circle r="80" stroke="#00ffff" stroke-width="0.8" fill="none" opacity="0.25"/>
+<circle r="50" stroke="#00ffff" stroke-width="0.8" fill="none" opacity="0.25"/>
+<circle r="22" stroke="#00ffff" stroke-width="0.8" fill="none" opacity="0.25"/>
+<line x1="-110" y1="0" x2="110" y2="0" stroke="#00ffff" stroke-width="0.6" opacity="0.18"/>
+<line x1="0" y1="-110" x2="0" y2="110" stroke="#00ffff" stroke-width="0.6" opacity="0.18"/>
+<line x1="-78" y1="-78" x2="78" y2="78" stroke="#00ffff" stroke-width="0.5" opacity="0.12"/>
+<line x1="-78" y1="78" x2="78" y2="-78" stroke="#00ffff" stroke-width="0.5" opacity="0.12"/>
+<g><path d="M 0 0 L 110 0 A 110 110 0 0 0 95.3 -55 Z" fill="url(#sw)" opacity="0.35"/><line x1="0" y1="0" x2="110" y2="0" stroke="#00ffff" stroke-width="1.5" filter="url(#g)"/><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="4.5s" repeatCount="indefinite"/></g>
+<circle r="3" fill="#00ffff" filter="url(#g)"/>
+<circle cx="55" cy="-32" r="3" fill="#ff1493" filter="url(#g)"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.4;1" dur="4.5s" repeatCount="indefinite"/></circle>
+<circle cx="-65" cy="38" r="3" fill="#ff1493" filter="url(#g)"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.35;0.45;0.7;1" dur="4.5s" repeatCount="indefinite"/></circle>
+<circle cx="80" cy="52" r="3" fill="#ffa500" filter="url(#g)"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.55;0.65;0.95;1" dur="4.5s" repeatCount="indefinite"/></circle>
+<circle cx="-42" cy="-66" r="3" fill="#ff4060" filter="url(#g)"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.2;0.3;0.55;1" dur="4.5s" repeatCount="indefinite"/></circle>
+<circle cx="18" cy="92" r="2.5" fill="#bf7fff" filter="url(#g)"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.75;0.85;0.98;1" dur="4.5s" repeatCount="indefinite"/></circle>
+</g>
+<text x="40" y="352" fill="#7c8db5" font-family="'JetBrains Mono',monospace" font-size="10">ACTIVE TARGETS</text>
+<text x="40" y="370" fill="#00ffff" font-family="'JetBrains Mono',monospace" font-size="16" font-weight="700" filter="url(#sg)">5 detected</text>
+<text x="320" y="370" fill="#00ff66" font-family="'JetBrains Mono',monospace" font-size="10" text-anchor="end" letter-spacing="1">● SCAN ACTIVE</text>
+</g>
+<g>
+<rect x="360" y="60" width="380" height="320" fill="#0a0d22" stroke="#8a2be2" stroke-width="1" rx="4" opacity="0.85"/>
+<rect x="360" y="60" width="3" height="320" fill="#8a2be2" filter="url(#sg)"/>
+<text x="380" y="82" fill="#7c8db5" font-family="'JetBrains Mono',monospace" font-size="10" letter-spacing="1.5">&gt; REAL-TIME METRICS</text>
+<g transform="translate(380,100)">
+<rect width="160" height="120" fill="#070a1a" stroke="#00ffff" stroke-width="0.8" rx="3" opacity="0.7"/>
+<text x="12" y="22" fill="#7c8db5" font-family="'JetBrains Mono',monospace" font-size="9" letter-spacing="1">ALERTS_24H</text>
+<text x="12" y="56" fill="#00ffff" font-family="'JetBrains Mono',monospace" font-size="30" font-weight="800" filter="url(#sg)">234</text>
+<text x="12" y="74" fill="#00ff66" font-family="'JetBrains Mono',monospace" font-size="9">▲ 12% vs avg</text>
+<rect x="12" y="90" width="136" height="3" fill="#1f2548" rx="1"/>
+<rect x="12" y="90" width="0" height="3" fill="#00ffff" rx="1" filter="url(#sg)"><animate attributeName="width" from="0" to="95" dur="2.2s" fill="freeze"/></rect>
+<text x="12" y="110" fill="#5b6788" font-family="'JetBrains Mono',monospace" font-size="8">triaged · 70%</text>
+</g>
+<g transform="translate(560,100)">
+<rect width="160" height="120" fill="#070a1a" stroke="#ff1493" stroke-width="0.8" rx="3" opacity="0.7"/>
+<text x="12" y="22" fill="#7c8db5" font-family="'JetBrains Mono',monospace" font-size="9" letter-spacing="1">THREATS_BLOCKED</text>
+<text x="12" y="56" fill="#ff66c4" font-family="'JetBrains Mono',monospace" font-size="30" font-weight="800" filter="url(#sg)">1,337</text>
+<text x="12" y="74" fill="#00ff66" font-family="'JetBrains Mono',monospace" font-size="9">▲ auto-mitigated</text>
+<rect x="12" y="90" width="136" height="3" fill="#1f2548" rx="1"/>
+<rect x="12" y="90" width="0" height="3" fill="#ff1493" rx="1" filter="url(#sg)"><animate attributeName="width" from="0" to="133" dur="2.5s" fill="freeze"/></rect>
+<text x="12" y="110" fill="#5b6788" font-family="'JetBrains Mono',monospace" font-size="8">block_rate · 98%</text>
+</g>
+<g transform="translate(380,235)">
+<rect width="160" height="120" fill="#070a1a" stroke="#00ff66" stroke-width="0.8" rx="3" opacity="0.7"/>
+<text x="12" y="22" fill="#7c8db5" font-family="'JetBrains Mono',monospace" font-size="9" letter-spacing="1">UPTIME_30D</text>
+<text x="12" y="56" fill="#00ff66" font-family="'JetBrains Mono',monospace" font-size="30" font-weight="800" filter="url(#sg)">99.99%</text>
+<text x="12" y="74" fill="#00ff66" font-family="'JetBrains Mono',monospace" font-size="9">▲ HA confirmed</text>
+<rect x="12" y="90" width="136" height="3" fill="#1f2548" rx="1"/>
+<rect x="12" y="90" width="0" height="3" fill="#00ff66" rx="1" filter="url(#sg)"><animate attributeName="width" from="0" to="135" dur="2.8s" fill="freeze"/></rect>
+<text x="12" y="110" fill="#5b6788" font-family="'JetBrains Mono',monospace" font-size="8">sla · 99.9% target</text>
+</g>
+<g transform="translate(560,235)">
+<rect width="160" height="120" fill="#070a1a" stroke="#bf7fff" stroke-width="0.8" rx="3" opacity="0.7"/>
+<text x="12" y="22" fill="#7c8db5" font-family="'JetBrains Mono',monospace" font-size="9" letter-spacing="1">MTTR_AVG</text>
+<text x="12" y="56" fill="#bf7fff" font-family="'JetBrains Mono',monospace" font-size="30" font-weight="800" filter="url(#sg)">4m 12s</text>
+<text x="12" y="74" fill="#00ff66" font-family="'JetBrains Mono',monospace" font-size="9">▼ -38% this Q</text>
+<rect x="12" y="90" width="136" height="3" fill="#1f2548" rx="1"/>
+<rect x="12" y="90" width="0" height="3" fill="#bf7fff" rx="1" filter="url(#sg)"><animate attributeName="width" from="0" to="56" dur="2.4s" fill="freeze"/></rect>
+<text x="12" y="110" fill="#5b6788" font-family="'JetBrains Mono',monospace" font-size="8">goal · &lt; 5m</text>
+</g>
+</g>
+<g>
+<rect x="760" y="60" width="500" height="320" fill="#0a0d22" stroke="#ff1493" stroke-width="1" rx="4" opacity="0.85"/>
+<rect x="760" y="60" width="3" height="320" fill="#ff1493" filter="url(#sg)"/>
+<text x="780" y="82" fill="#7c8db5" font-family="'JetBrains Mono',monospace" font-size="10" letter-spacing="1.5">&gt; tail -f /var/log/secure.log</text>
+<rect x="780" y="100" width="480" height="270" fill="#040611" rx="4"/>
+<g clip-path="url(#lc)">
+<g font-family="'JetBrains Mono',monospace" font-size="10.5">
+<text x="792" y="118"><tspan fill="#5b6788">[05:33:12] </tspan><tspan fill="#00ffff">INFO  </tspan><tspan fill="#a0aec0">SSH auth success · maikol@10.0.0.42</tspan></text>
+<text x="792" y="138"><tspan fill="#5b6788">[05:34:01] </tspan><tspan fill="#ffa500">WARN  </tspan><tspan fill="#a0aec0">95 brute-force attempts · 185.220.101.34</tspan></text>
+<text x="792" y="158"><tspan fill="#5b6788">[05:34:01] </tspan><tspan fill="#ff4060">ALERT </tspan><tspan fill="#a0aec0">IP banned · fail2ban · 185.220.101.34</tspan></text>
+<text x="792" y="178"><tspan fill="#5b6788">[05:34:18] </tspan><tspan fill="#00ffff">INFO  </tspan><tspan fill="#a0aec0">Wazuh rule 5710 triggered</tspan></text>
+<text x="792" y="198"><tspan fill="#5b6788">[05:34:32] </tspan><tspan fill="#00ff66">OK    </tspan><tspan fill="#a0aec0">Container scan · 0 critical CVEs</tspan></text>
+<text x="792" y="218"><tspan fill="#5b6788">[05:35:00] </tspan><tspan fill="#00ff66">OK    </tspan><tspan fill="#a0aec0">Daily Nessus scan finished · 12 lows</tspan></text>
+<text x="792" y="238"><tspan fill="#5b6788">[05:35:14] </tspan><tspan fill="#ffa500">WARN  </tspan><tspan fill="#a0aec0">Unusual traffic pattern · src 10.0.0.78</tspan></text>
+<text x="792" y="258"><tspan fill="#5b6788">[05:35:21] </tspan><tspan fill="#00ffff">INFO  </tspan><tspan fill="#a0aec0">SOAR playbook 'investigate-anomaly'</tspan></text>
+<text x="792" y="278"><tspan fill="#5b6788">[05:35:45] </tspan><tspan fill="#ff4060">ALERT </tspan><tspan fill="#a0aec0">Suspicious process · /tmp/.kthread</tspan></text>
+<text x="792" y="298"><tspan fill="#5b6788">[05:35:47] </tspan><tspan fill="#00ff66">OK    </tspan><tspan fill="#a0aec0">Process killed · pod quarantined</tspan></text>
+<text x="792" y="318"><tspan fill="#5b6788">[05:36:02] </tspan><tspan fill="#00ffff">INFO  </tspan><tspan fill="#a0aec0">IAM policy drift · prod-cluster</tspan></text>
+<text x="792" y="338"><tspan fill="#5b6788">[05:36:15] </tspan><tspan fill="#00ff66">OK    </tspan><tspan fill="#a0aec0">Terraform plan applied · 3 corrections</tspan></text>
+<text x="792" y="358"><tspan fill="#5b6788">[05:36:30] </tspan><tspan fill="#00ffff">INFO  </tspan><tspan fill="#a0aec0">Vault token rotated · success</tspan></text>
+<text x="792" y="378"><tspan fill="#5b6788">[05:33:12] </tspan><tspan fill="#00ffff">INFO  </tspan><tspan fill="#a0aec0">SSH auth success · maikol@10.0.0.42</tspan></text>
+<text x="792" y="398"><tspan fill="#5b6788">[05:34:01] </tspan><tspan fill="#ffa500">WARN  </tspan><tspan fill="#a0aec0">95 brute-force attempts · 185.220.101.34</tspan></text>
+<text x="792" y="418"><tspan fill="#5b6788">[05:34:01] </tspan><tspan fill="#ff4060">ALERT </tspan><tspan fill="#a0aec0">IP banned · fail2ban · 185.220.101.34</tspan></text>
+<text x="792" y="438"><tspan fill="#5b6788">[05:34:18] </tspan><tspan fill="#00ffff">INFO  </tspan><tspan fill="#a0aec0">Wazuh rule 5710 triggered</tspan></text>
+<text x="792" y="458"><tspan fill="#5b6788">[05:34:32] </tspan><tspan fill="#00ff66">OK    </tspan><tspan fill="#a0aec0">Container scan · 0 critical CVEs</tspan></text>
+<text x="792" y="478"><tspan fill="#5b6788">[05:35:00] </tspan><tspan fill="#00ff66">OK    </tspan><tspan fill="#a0aec0">Daily Nessus scan finished · 12 lows</tspan></text>
+<text x="792" y="498"><tspan fill="#5b6788">[05:35:14] </tspan><tspan fill="#ffa500">WARN  </tspan><tspan fill="#a0aec0">Unusual traffic pattern · src 10.0.0.78</tspan></text>
+<text x="792" y="518"><tspan fill="#5b6788">[05:35:21] </tspan><tspan fill="#00ffff">INFO  </tspan><tspan fill="#a0aec0">SOAR playbook 'investigate-anomaly'</tspan></text>
+<text x="792" y="538"><tspan fill="#5b6788">[05:35:45] </tspan><tspan fill="#ff4060">ALERT </tspan><tspan fill="#a0aec0">Suspicious process · /tmp/.kthread</tspan></text>
+<text x="792" y="558"><tspan fill="#5b6788">[05:35:47] </tspan><tspan fill="#00ff66">OK    </tspan><tspan fill="#a0aec0">Process killed · pod quarantined</tspan></text>
+<text x="792" y="578"><tspan fill="#5b6788">[05:36:02] </tspan><tspan fill="#00ffff">INFO  </tspan><tspan fill="#a0aec0">IAM policy drift · prod-cluster</tspan></text>
+<text x="792" y="598"><tspan fill="#5b6788">[05:36:15] </tspan><tspan fill="#00ff66">OK    </tspan><tspan fill="#a0aec0">Terraform plan applied · 3 corrections</tspan></text>
+<text x="792" y="618"><tspan fill="#5b6788">[05:36:30] </tspan><tspan fill="#00ffff">INFO  </tspan><tspan fill="#a0aec0">Vault token rotated · success</tspan></text>
+<animateTransform attributeName="transform" type="translate" from="0 0" to="0 -260" dur="22s" repeatCount="indefinite"/>
+</g>
+</g>
+</g>
+</svg>
