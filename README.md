@@ -1,10 +1,9 @@
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
 <!-- ║  GitHub Profile · Maikol Romero Amaro                        ║ -->
 <!-- ║  DevSecOps Engineer · SOC Architect · Ethical Hacker         ║ -->
-<!-- ║  Tema: Cyberpunk · Tokyo Night                               ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-<!-- ═════════ BANNER PERSONALIZADO ═════════ -->
+<!-- ═════════ BANNER CYBERPUNK ═════════ -->
 <p align="center">
   <img src="./assets/banner.svg" alt="SOC Command Center · Maikol Romero" width="100%"/>
 </p>
@@ -82,7 +81,7 @@ mission:
 
 ## `> ./arsenal.sh`
 
-<!-- ✏️ Ajusta lo que no uses. Yo he tirado por tu perfil de DevSecOps. -->
+<!-- ✏️ Ajusta lo que no uses. Tirado por tu perfil DevSecOps. -->
 
 <div align="center">
 
@@ -148,67 +147,25 @@ philosophy:            "El certificado da el papel — la práctica da el criter
 
 ## `> ./defense-matrix.md`
 
-| Capa            | Estado | Stack principal                                    |
-|-----------------|--------|----------------------------------------------------|
-| 🌐 **Perímetro**    | ✅ OK   | WAF · Cloudflare · IDS/IPS                         |
-| 🔍 **Detección**    | ✅ OK   | Wazuh · Elastic · alertas correlacionadas          |
-| 🤖 **Respuesta**    | ✅ OK   | SOAR · playbooks automatizados · scripts custom    |
-| 🔐 **Identidad**    | ✅ OK   | Zero-trust · least privilege · Vault               |
-| 📋 **Compliance**   | 🟡 IT  | RGPD · PCI-DSS · ENS — auditoría continua          |
-| ☁️ **Cloud**        | ✅ OK   | IaC · benchmarks CIS · drift detection             |
-| 🧪 **Hardening**    | 🔄 LOOP | Pentests internos · escaneo CVE 24/7               |
+| Capa             | Estado | Stack principal                                    |
+|------------------|--------|----------------------------------------------------|
+| 🌐 **Perímetro**     | ✅ OK   | WAF · Cloudflare · IDS/IPS                         |
+| 🔍 **Detección**     | ✅ OK   | Wazuh · Elastic · alertas correlacionadas          |
+| 🤖 **Respuesta**     | ✅ OK   | SOAR · playbooks automatizados · scripts custom    |
+| 🔐 **Identidad**     | ✅ OK   | Zero-trust · least privilege · Vault               |
+| 📋 **Compliance**    | 🟡 IT  | RGPD · PCI-DSS · ENS — auditoría continua          |
+| ☁️ **Cloud**         | ✅ OK   | IaC · benchmarks CIS · drift detection             |
+| 🧪 **Hardening**     | 🔄 LOOP | Pentests internos · escaneo CVE 24/7               |
 
 ---
 
-## `> ./stats.exe`
+## `> ./soc --live`
 
-<div align="center">
+<!-- 🎯 Panel SOC totalmente custom. Radar girando, métricas vivas y log feed scrolleando. -->
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maikol-Romero&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00ffff&icon_color=ff1493" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Maikol-Romero&theme=tokyonight&hide_border=true&background=0d1117&ring=ff1493&fire=00ffff&currStreakLabel=00ffff" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maikol-Romero&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff&langs_count=8" />
-
-</div>
-
----
-
-## `> ./trophies`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Maikol-Romero&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
-
-</div>
-
----
-
-## `> tail -f activity.log`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Maikol-Romero&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00ffff&line=ff1493&point=ffffff&area=true&area_color=8A2BE2" width="100%" />
-
-</div>
-
----
-
-## `> ./snake.sh`
-
-<!-- 🐍 Necesita el GitHub Action en .github/workflows/snake.yml -->
-<!--    La primera vez aparece en blanco. Tras la primera ejecución se rellena solo. -->
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Maikol-Romero/Maikol-Romero/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Maikol-Romero/Maikol-Romero/output/github-contribution-grid-snake.svg" />
-  <img alt="snake comiéndose mis contribuciones" src="https://raw.githubusercontent.com/Maikol-Romero/Maikol-Romero/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
+<p align="center">
+  <img src="./assets/soc-monitor.svg" alt="SOC Live Monitor" width="100%"/>
+</p>
 
 ---
 
