@@ -3,9 +3,9 @@
 <!-- ║  DevSecOps Engineer · SOC Architect · Ethical Hacker         ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-<!-- ═════════ BANNER CYBERPUNK ═════════ -->
+<!-- ═════════ BANNER (vía jsDelivr para que las animaciones funcionen) ═════════ -->
 <p align="center">
-  <img src="./assets/banner.svg" alt="SOC Command Center · Maikol Romero" width="100%"/>
+  <img src="https://cdn.jsdelivr.net/gh/Maikol-Romero/Maikol-Romero@main/assets/banner.svg" alt="SOC Command Center · Maikol Romero" width="100%"/>
 </p>
 
 <!-- ═════════ TYPING SVG ═════════ -->
@@ -25,32 +25,26 @@
 
 ## `> motd`
 
-```bash
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   Welcome, intruder. Or friend. Time will tell.                  ║
-║                                                                  ║
-║   ▸ Last login : real-time from a cyberpunk dimension            ║
-║   ▸ Operator   : maikol@soc:~$                                   ║
-║   ▸ Mission    : keep production safe ⚡                         ║
-║                                                                  ║
-║   This system is monitored. Have a nice scan.                    ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+> 🟢 &nbsp; **`maikol@soc:~$`** &nbsp; Welcome.
+>
+> 📍 &nbsp; **Last login** · real-time from somewhere in Spain  
+> 🎯 &nbsp; **Mission** · keep critical systems safe ⚡  
+> 🛡️ &nbsp; **Status** · defending production  
+>
+> _This system is monitored. Have a nice scan._
 
 ---
 
 ## `> whoami`
 
-```yaml
-name:         Maikol Romero Amaro
-role:         DevSecOps Engineer · SOC Architect · Ethical Hacker
-location:     España
-mindset:      "El objetivo no es solo detectar la brecha — es diseñar
-               la arquitectura definitiva para que no vuelva a ocurrir."
-fueled_by:    [ "café", "logs a las 3 AM", "CVEs nuevos" ]
-status:       defending_critical_infrastructure
-```
+|       |                                                                                                                              |
+| ----- | ---------------------------------------------------------------------------------------------------------------------------- |
+| 👤 **Name**       | Maikol Romero Amaro                                                                                              |
+| 🎖️ **Role**       | DevSecOps Engineer · SOC Architect · Ethical Hacker                                                              |
+| 📍 **Location**   | 🇪🇸 España                                                                                                         |
+| 🧠 **Mindset**    | _"El objetivo no es solo detectar la brecha — es diseñar la arquitectura definitiva para que no vuelva a ocurrir."_ |
+| ☕ **Fueled by**  | café · logs a las 3 AM · CVEs nuevos                                                                             |
+| 🟢 **Status**     | `defending_critical_infrastructure`                                                                              |
 
 > Soy Ingeniero de Sistemas y Ciberseguridad. Diseño, despliego y protejo infraestructuras críticas combinando seguridad ofensiva con arquitectura defensiva: SOCs desde cero, SIEM orquestado con respuesta activa, observabilidad integral y pipelines de escaneo de vulnerabilidades **enriquecidos con IA**. Cuando no estoy automatizando defensas, estoy rompiendo cosas (legalmente) para entender cómo defenderlas mejor.
 
@@ -58,30 +52,28 @@ status:       defending_critical_infrastructure
 
 ## `> cat ./mission.txt`
 
-```yaml
-mission:
-  red_team:
-    - Auditorías técnicas profundas (lógica de negocio, APIs, infra)
-    - Análisis de cumplimiento: OWASP · PCI-DSS · RGPD · ENS
-    - Hunting de vulnerabilidades en producción
-  blue_team:
-    - Diseño de SOC end-to-end (SIEM + SOAR + respuesta activa)
-    - Observabilidad integral · señal, no ruido
-    - Detección automatizada enriquecida con IA
-  architecture:
-    - Alta Disponibilidad sobre clouds críticos
-    - Infrastructure-as-Code · pipelines reproducibles
-    - Cero secretos sueltos · gobernanza de identidades
-  automation:
-    - Scripts custom para eliminar lo manual
-    - Reducir tiempos de respuesta de horas a segundos
-```
+#### 🎯 &nbsp;Red Team
+- Auditorías técnicas profundas (lógica de negocio, APIs, infra)
+- Análisis de cumplimiento: **OWASP · PCI-DSS · RGPD · ENS**
+- Hunting de vulnerabilidades en producción
+
+#### 🛡️ &nbsp;Blue Team
+- Diseño de SOC end-to-end (**SIEM + SOAR + respuesta activa**)
+- Observabilidad integral · señal, no ruido
+- Detección automatizada **enriquecida con IA**
+
+#### 🏗️ &nbsp;Architecture
+- Alta Disponibilidad sobre clouds críticos
+- Infrastructure-as-Code · pipelines reproducibles
+- Cero secretos sueltos · gobernanza de identidades
+
+#### ⚡ &nbsp;Automation
+- Scripts custom para eliminar lo manual
+- Reducir tiempos de respuesta de horas a segundos
 
 ---
 
 ## `> ./arsenal.sh`
-
-<!-- ✏️ Ajusta lo que no uses. Tirado por tu perfil DevSecOps. -->
 
 <div align="center">
 
@@ -131,17 +123,17 @@ mission:
 
 ## `> ./certifications.log`
 
-```yaml
-in_progress:
-  eJPT:                ████████░░  80%   # eLearnSecurity Junior Penetration Tester
-next_targets:
-  OSCP:                ███░░░░░░░  30%   # Offensive Security Certified Professional
-  AWS_SCS:             █████░░░░░  50%   # AWS Certified Security – Specialty
-  CKS:                 ████░░░░░░  40%   # Certified Kubernetes Security Specialist
-philosophy:            "El certificado da el papel — la práctica da el criterio."
-```
+**`In progress`**
 
-> <!-- ✏️ Ajusta los % según donde estés realmente. Quita las que no apliquen. -->
+![eJPT](https://img.shields.io/badge/eJPT-%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B1%E2%96%B1%20%2080%25-ff1493?style=for-the-badge&labelColor=0d1117) &nbsp; eLearnSecurity Junior Penetration Tester
+
+**`Next targets`**
+
+![OSCP](https://img.shields.io/badge/OSCP-%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%20%2030%25-00ffff?style=for-the-badge&labelColor=0d1117) &nbsp; Offensive Security Certified Professional  
+![AWS-SCS](https://img.shields.io/badge/AWS--SCS-%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%20%2050%25-8a2be2?style=for-the-badge&labelColor=0d1117) &nbsp; AWS Certified Security – Specialty  
+![CKS](https://img.shields.io/badge/CKS-%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%20%2040%25-00ff66?style=for-the-badge&labelColor=0d1117) &nbsp; Certified Kubernetes Security Specialist
+
+> _"El certificado da el papel — la práctica da el criterio."_
 
 ---
 
@@ -161,10 +153,8 @@ philosophy:            "El certificado da el papel — la práctica da el criter
 
 ## `> ./soc --live`
 
-<!-- 🎯 Panel SOC totalmente custom. Radar girando, métricas vivas y log feed scrolleando. -->
-
 <p align="center">
-  <img src="./assets/soc-monitor.svg" alt="SOC Live Monitor" width="100%"/>
+  <img src="https://cdn.jsdelivr.net/gh/Maikol-Romero/Maikol-Romero@main/assets/soc-monitor.svg" alt="SOC Live Monitor" width="100%"/>
 </p>
 
 ---
@@ -173,7 +163,7 @@ philosophy:            "El certificado da el papel — la práctica da el criter
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="random quote" />
 
 </div>
 
@@ -189,17 +179,6 @@ philosophy:            "El certificado da el papel — la práctica da el criter
 <a href="https://github.com/Maikol-Romero">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<!-- ✏️ Descomenta y rellena cuando quieras:
-<a href="mailto:tu@email.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://tryhackme.com/p/Maikol">
-  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" />
-</a>
-<a href="https://app.hackthebox.com/profile/Maikol">
-  <img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
-</a>
--->
 
 </div>
 
