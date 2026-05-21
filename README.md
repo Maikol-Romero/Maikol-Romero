@@ -46,7 +46,7 @@
 | ☕ **Fueled by**  | café · logs a las 3 AM · CVEs nuevos                                                                             |
 | 🟢 **Status**     | `defending_critical_infrastructure`                                                                              |
 
-> Soy Experto de Sistemas y Ciberseguridad. Diseño, despliego y protejo infraestructuras críticas combinando seguridad ofensiva con arquitectura defensiva: SOCs desde cero, SIEM orquestado con respuesta activa, observabilidad integral y pipelines de escaneo de vulnerabilidades **enriquecidos con IA**. Cuando no estoy automatizando defensas, estoy rompiendo cosas (legalmente) para entender cómo defenderlas mejor.
+> Soy Experto en Sistemas y Ciberseguridad. Diseño, despliego y protejo infraestructuras críticas combinando seguridad ofensiva con arquitectura defensiva: SOCs desde cero, SIEM orquestado con respuesta activa, observabilidad integral y pipelines de escaneo de vulnerabilidades **enriquecidos con IA**. Cuando no estoy automatizando defensas, estoy rompiendo cosas (legalmente) para entender cómo defenderlas mejor.
 
 ---
 
